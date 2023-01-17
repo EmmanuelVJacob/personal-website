@@ -1,0 +1,68 @@
+.search-body{
+    background-color: rgb(253, 233, 219);
+    height: 420px;
+    margin-left: 0%;
+}
+.title{
+    font-family: gd-sage,"Times","Times New Roman",serif;
+    text-align: center;
+    font-weight:800;
+    font-size:60px;
+    letter-spacing: -.01em;
+    padding-top: 80px;
+    margin: 0;
+}
+.offer{
+    font-family: var(--ux-1067ph9,sans-serif);
+    text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+    margin: 0%;
+    padding-top: 20px;
+}
+.search-div{
+    display: flex;
+    align-items: center;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 15px;
+
+}
+.search-box{
+    flex: 1;
+    height: 60px;
+    padding-left: 20px;
+    border: 0cm;
+    font-family: gdsherpa,Helvetica;
+    font-size: 20px;
+}
+
+.search-button{
+    background-color: black;
+    color: white;
+    height: 62px;
+    width: 110px;
+    font-family: gdsherpa,Helvetica;
+    font-size: 17px;
+    font-weight: 600;
+    transition: .7s;
+
+}
+.search-button:hover{
+    background-color: rgb(9,133,122);
+    transition: .7s;
+    border: 0px;
+    border: 10px;
+    border-color: rgb(9,133,122) ;
+}
+.search-box::placeholder{
+    font-size: 20px;
+}
+.under-search{
+    font-family: gdsherpa,Helvetica;
+    text-align: center;
+    font-size: small;
+    margin: 0ch;
+    padding-top: 20px;
+    color: rgb(88, 88, 88);
+}

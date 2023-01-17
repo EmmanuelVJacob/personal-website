@@ -1,0 +1,68 @@
+ 
+        .domains{
+            font-family: gdsherpa,Helvetica;
+            text-align: center;
+            font-size: medium;
+            margin: 0ch;
+            padding-top: 20px;
+            color: rgb(88, 88, 88);
+        }
+        .tools-div{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            padding-left: 100px;
+            padding-top: 100px;
+            padding-right: 100px;
+            column-gap: 80px;
+        }
+        .tool{
+            margin: 0ch;
+
+        }
+        .tool-image{
+            width:590px;
+            margin: 0%;
+        }
+        .tool-head,span{
+            font-family: gd-sage,"Times","Times New Roman",serif;
+            text-align: left;
+            font-weight:800;
+            font-size:35px;
+            letter-spacing: -.01em;
+            padding-top: 20px;
+            margin: 0;
+        }
+        .tool-desc{
+            font-family: gdsherpa,Helvetica;
+            text-align: left;
+            font-size: 15px;
+            margin: 0ch;
+            padding-top: 22px;
+            color: rgb(88, 88, 88);
+            letter-spacing: .12mm;
+            line-height: 6mm;
+        }
+        .tool-button{
+            margin-top: 30px;
+            padding: 16px 45px;
+            background-color: white;
+            border-color: black;
+            border-width: 2px;
+            border-radius: 7px;
+            transition: .5s;
+
+        }
+        .tool-button:hover{
+            cursor: pointer;
+            padding: 17px 55px;
+            transition: .5s;
+
+        }
+        .tool-button p{
+            margin: 0;
+            font-weight: bold;
+            letter-spacing: .1px;
+            font-family: gdsherpa,Helvetica;
+            font-size: medium;
+
+        }

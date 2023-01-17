@@ -1,0 +1,196 @@
+
+       
+        .black-bar{
+            background-color: rgb(43, 43, 43);
+            display: flex;
+            align-items: center;
+            height: 50px;
+            padding-left: 100px;
+        }
+        .godaddy-black-logo{
+            width: 25px;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .right-arrow-icon{
+            width: 15px;
+            display: inline-block;
+            border-radius: 50px; 
+            margin-left: 20px;
+        }
+        .black-text{
+            font-family: gdsherpa,Helvetica;
+            font-size: 22px;
+            margin: 0ch;
+            color: rgb(225, 225, 225);
+            letter-spacing: .12mm;
+            line-height: 6mm;
+            margin-left: 20px;
+            cursor: pointer;
+        }
+        .emman{
+            height: 100px;
+            background-color: rgb(36, 36, 36);
+            color: white;
+            cursor: pointer;
+        }
+        .emman p{
+            margin: 0;
+            padding-top: 40px;
+            padding-left: 80px;
+            font-family: gdsherpa,Helvetica;
+            font-size: 22px;
+            margin: 0ch;
+            color: rgb(183, 183, 183);
+            letter-spacing: .12mm;
+            line-height: 6mm;
+            margin-left: 20px;
+        }
+        .pop{
+            height: 189px;
+            background-color: rgb(36, 36, 36);
+            display: flex;
+            align-items: center;
+            border-bottom: .05mm;
+            border-bottom-style: solid;
+            border-bottom-color:rgb(194, 192, 192) ;
+            cursor: pointer;
+        }
+        .black-logo{
+            width: 280px;
+            display: inline-block;
+            padding-left: 70px;
+        }
+        .pop p{
+            color: white;
+            font-size: 30px;
+            font-family: gdsherpa,Helvetica;
+            margin: 0;
+            display: inline-block;
+        }
+        .color-arrow{
+            width: 100px;
+            display: inline-block;
+            padding-left: 25px;
+            margin: 0;
+        }
+        .mob{
+            height: 500px;
+            background-color: rgb(31, 31, 31);
+            display: flex;
+            column-gap: 2px;
+        }
+        .love{
+            flex: 1;
+            background-color: rgb(31, 31, 31);
+        }
+        .h3{
+            color: white;
+            padding-left: 60px;
+            font-family: gdsherpa,Helvetica;
+            font-size: small;
+            padding-top: 30px;
+
+        }
+        .list{
+            color: rgb(176, 173, 173);
+            padding-left: 60px;
+            font-family: gdsherpa,Helvetica;
+            font-size: small;
+            padding-top: 8px;
+        }
+        .list:hover{
+            text-decoration: underline;
+            color: rgb(175, 175, 175);
+            cursor: pointer;
+        }
+        .peni{
+           
+            background-color: rgb(31, 31, 31);
+            color: white;
+            padding-left:60px ;
+            display: flex;
+            justify-content: space-between;
+        }
+        .left-side{
+            width: 500px;
+            background-color: rgb(31, 31, 31);
+            display: flex;
+            align-items: center;
+        }
+        .bottom-black-logo{
+            width: 220px;
+            margin: 0;
+            cursor: pointer;
+        }
+        .left-side p{
+            color: rgb(255, 255, 255);
+            font-family: gdsherpa,Helvetica;
+            font-size: small;
+            font-weight: bold;
+            letter-spacing: .5px;
+            cursor: pointer;
+        }
+        .up{
+            width: 30px;
+            cursor: pointer;
+        }
+        .right-side{
+            background-color: rgb(31, 31, 31);
+            width: 170px;
+            display: flex;
+            align-items: center;
+            column-gap: 5px;
+        }
+        .fb{
+            width: 35px;
+            cursor: pointer;
+        }
+        .insta{
+            width: 35px;
+            cursor: pointer;
+        }
+        .yt{
+            width: 35px;
+            cursor: pointer;
+        }
+        .footer{
+            height: 130px;
+            background-color: rgb(31, 31, 31);
+            display: flex;
+        }
+        .left-bottom{
+            flex: 1;
+            background-color: rgb(31, 31, 31);
+        }
+        .left-bottom span{
+            color: rgb(0, 229, 229);
+            font-family: gdsherpa,Helvetica;
+            padding: 10px;
+            margin: 0;
+            font-size: small;
+            line-height: 25px;
+            font-weight: 100;
+        }
+        .left-bottom p{
+            font-family: gdsherpa,Helvetica;
+            color: white;
+            padding: 10px 20px;
+            margin: 0;
+            font-size: small;
+            line-height: 25px;
+        }
+        .right-bottom{
+            display: flex;
+            width: 300px;
+            background-color: rgb(31, 31, 31);
+            column-gap: 20px;
+        }
+        .right-bottom p{
+            color: rgb(177, 177, 177);
+            font-family: gdsherpa,Helvetica;
+        }
+        .right-bottom p:hover{
+            cursor: pointer;
+            text-decoration: underline;
+        }

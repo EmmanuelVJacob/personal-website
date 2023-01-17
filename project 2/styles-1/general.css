@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+ 
+.rights{
+    font-family: gdsherpa,Helvetica;
+    text-align: left;
+    font-size: 15px;
+    margin: 0ch;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    color: rgb(88, 88, 88);
+    letter-spacing: .12mm;
+    line-height: 6mm;
+}
+.rights u{
+    cursor: pointer;
+
+}
+.support{
+    display: flex;
+    flex: 1;
+    background-color: rgb(245, 247, 248);
+    height: 100px;
+    align-items: center;
+}
+.support-num{
+    font-family: gdsherpa,Helvetica;
+    font-size: 22px;
+    margin: 0ch;
+    color: rgb(67, 67, 67);
+    letter-spacing: .12mm;
+    line-height: 6mm;
+    padding-left: 450px;
+}

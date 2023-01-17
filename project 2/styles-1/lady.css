@@ -1,0 +1,91 @@
+.lady-div{
+    margin-top: 150px;
+    position: relative;
+
+}
+.lady-image{
+    width: 100%;
+}
+.lady-text{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    height: 250px;
+    width: 480px;
+}
+.lady-logo{
+    width: 130px;
+    display: inline-block;
+    padding-top: 5px;
+}
+.guide{
+    font-family: gdsherpa,Helvetica;
+    font-size: 15px;
+    letter-spacing: .12mm;
+    display: inline-block;
+    margin: 0;
+}
+.lady-title{
+    font-family: gd-sage,"Times","Times New Roman",serif;
+    text-align: left;
+    font-weight:800;
+    font-size:60px;
+    letter-spacing: -.01em;
+    padding-top: 28px;
+    margin: 0;
+}
+.help-button{
+    margin-top: 10px;
+    padding: 15px 55px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 7px;
+    transition: .5s;
+
+}
+.help-button:hover{
+    padding: 16px 62px;
+    transition: .5s;
+}
+.lady-desc{
+    font-family: gdsherpa,Helvetica;
+    text-align: left;
+    font-size: 15px;
+    margin: 0ch;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: rgb(88, 88, 88);
+    letter-spacing: .12mm;
+    line-height: 6mm;
+}
+.help-button p{
+    margin: 0;
+    font-family: gdsherpa,Helvetica;
+    font-weight: 700;
+}
+.lady-sidetext{
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+.lady-side-head{
+    font-family: gdsherpa,Helvetica;
+    text-align: left;
+    font-size: 15px;
+    margin: 0ch;
+    color: rgb(0, 0, 0);
+    letter-spacing: .12mm;
+    line-height: 6mm;
+    font-weight: 500;
+}
+.lady-side-body{
+    font-family: gdsherpa,Helvetica;
+    text-align: left;
+    font-size: 15px;
+    margin: 0ch;
+    color: rgb(88, 88, 88);
+    letter-spacing: .12mm;
+    line-height: 6mm; 
+}
